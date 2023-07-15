@@ -103,7 +103,7 @@ canvas.create_image(100, 100, image=pass_logo)
 #canvas.grid()
 canvas.grid(column=1, row=0)
 
-#website
+#websit
 website_text = Label(text="Website:")
 website_text.grid(column=0, row=1)
 
